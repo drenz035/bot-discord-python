@@ -45,4 +45,4 @@ text
 ## 🔒 Segurança
 **.gitignore**: config.py, .env
 
-MIT License © 2026 André — Freelancer R$30-100
+MIT License © 2026 André — Freelancer 
